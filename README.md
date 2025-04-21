@@ -1,4 +1,4 @@
-# CMOS Inverter Solver 
+# CMOS Inverter Solver (Version_1)
 
 This Python script simulates the DC characteristics of a CMOS inverter circuit by solving the relevant MOSFET equations. It allows users to input key parameters and visualizes the input-output voltage relationship (Vin-Vout curve) and the input voltage versus the NMOS drain current (Vin-Id curve).
 
